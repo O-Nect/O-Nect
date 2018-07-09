@@ -1,0 +1,5 @@
+Start the flask server in one terminal
+
+Then run retrieve.py in another terminal
+
+Finally, run store.py in a third terminal
