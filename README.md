@@ -35,3 +35,5 @@ We welcome contributers to test the product.
 We've now added a blend file to our repo.
 Run the blender script and run_webcam.py from src 
 (Unity Support To be added soon)
+
+We currently only support blender and are looking for contributers to port this to unity3D.
