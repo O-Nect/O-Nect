@@ -4,7 +4,11 @@ O-Nect is an Open Source Interface for Unity Game developers which uses deep lea
 Yes,No sensors required.
 
 
-![alt text](https://github.com/O-Nect/O-Nect/tree/master/models/O-nect.gif)
+![alt text](https://github.com/O-Nect/O- Nect/tree/master/models/O-nect.gif "Gif visualize")
+
+
+
+
 Inspired by the work of OpenPose Developers(Caffe) : https://github.com/CMU-Perceptual-Computing-Lab/openpose
 We believe that this holds alot of potential and the users can manipulate the code as per their convenience.
 
@@ -19,6 +23,7 @@ and Blender
 
 Once you've got everything ready
 Run this command for RealTime Webcam 
+
 
 $ python run_webcam.py --camera=0
 You can now use socket based connectivity in Unity to access the keyPoints in real-time to use it as per your game design.
