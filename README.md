@@ -4,7 +4,7 @@ O-Nect is an Open Source Interface for Unity Game developers which uses deep lea
 Yes,No sensors required.
 
 
-![alt text](https://github.com/O-Nect/O- Nect/tree/master/models/O-nect.gif "Gif visualize")
+![alt text](https://github.com/O-Nect/O-Nect/tree/master/models/O-nect.gif "Gif visualize")
 
 
 
